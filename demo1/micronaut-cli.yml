@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: ru.unclediga.examples.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, java, java-application, junit, logback, maven, netty-server, readme, serialization-jackson, shade, yaml]
